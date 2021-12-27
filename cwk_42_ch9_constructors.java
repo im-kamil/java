@@ -9,6 +9,7 @@ public class cwk_42_ch9_constructors {
             name = "your_ Name";
         }
 
+        //get id
         public int getId() {
             return id;
         }
