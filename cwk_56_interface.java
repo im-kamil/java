@@ -13,9 +13,9 @@ interface HornBicycle { // double interface
 }
 
 class AvonCycle implements Bicycle, HornBicycle { // interface inheritance
-    void blowHorn() {
-        System.out.println("pee pee poo");
-    }
+  //  void blowHorn() {
+   //     System.out.println("pee pee poo");
+    // }
 
     public void applyBrake(int decrement) {
         System.out.println("applying brake");
