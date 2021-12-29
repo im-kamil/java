@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwk_66_access_modifier",
+            "request": "launch",
+            "mainClass": "cwk_66_access_modifier",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_65_package",
+            "request": "launch",
+            "mainClass": "cwk_65_package",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_diamondpattern",
+            "request": "launch",
+            "mainClass": "cwk_diamondpattern",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
             "name": "Launch cwk_palindromicPattern",
             "request": "launch",
             "mainClass": "cwk_palindromicPattern",
