@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwk_palindromicPattern",
+            "request": "launch",
+            "mainClass": "cwk_palindromicPattern",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_numberpyramid",
+            "request": "launch",
+            "mainClass": "cwk_numberpyramid",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
             "name": "Launch cwk_pattern11_solidrhombus",
             "request": "launch",
             "mainClass": "cwk_pattern11_solidrhombus",
