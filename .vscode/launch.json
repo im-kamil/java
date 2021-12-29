@@ -1,0 +1,475 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch cwk_pattern11_solidrhombus",
+            "request": "launch",
+            "mainClass": "cwk_pattern11_solidrhombus",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch B$cwk_48_ch10_method_overriding",
+            "request": "launch",
+            "mainClass": "B$cwk_48_ch10_method_overriding",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch CWK_04_literal",
+            "request": "launch",
+            "mainClass": "CWK_04_literal",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch CWK_05_TakingInput",
+            "request": "launch",
+            "mainClass": "CWK_05_TakingInput",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch CWK_09_ch2_op_pre",
+            "request": "launch",
+            "mainClass": "CWK_09_ch2_op_pre",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch CWK_14_ch3_string_method",
+            "request": "launch",
+            "mainClass": "CWK_14_ch3_string_method",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch CWK_28_CH6_multi",
+            "request": "launch",
+            "mainClass": "CWK_28_CH6_multi",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch CWK_45_CH10_Inheritance",
+            "request": "launch",
+            "mainClass": "CWK_45_CH10_Inheritance",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cwk_02_operators",
+            "request": "launch",
+            "mainClass": "Cwk_02_operators",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_01",
+            "request": "launch",
+            "mainClass": "Exercise_01",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_0_to_1_triangle_pattern",
+            "request": "launch",
+            "mainClass": "cwk_0_to_1_triangle_pattern",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_10_ch2_resulting_data_type",
+            "request": "launch",
+            "mainClass": "cwk_10_ch2_resulting_data_type",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_11_ex1_sol",
+            "request": "launch",
+            "mainClass": "cwk_11_ex1_sol",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_13_ch3_strings",
+            "request": "launch",
+            "mainClass": "cwk_13_ch3_strings",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_15_ch3_ps",
+            "request": "launch",
+            "mainClass": "cwk_15_ch3_ps",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_16_ch4_conditionals",
+            "request": "launch",
+            "mainClass": "cwk_16_ch4_conditionals",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_17_ch3_logicals",
+            "request": "launch",
+            "mainClass": "cwk_17_ch3_logicals",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_18_ch4_elseif",
+            "request": "launch",
+            "mainClass": "cwk_18_ch4_elseif",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_19_ch4_ps",
+            "request": "launch",
+            "mainClass": "cwk_19_ch4_ps",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_21_ch5_loops",
+            "request": "launch",
+            "mainClass": "cwk_21_ch5_loops",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_22_ch5_dowhile",
+            "request": "launch",
+            "mainClass": "cwk_22_ch5_dowhile",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_22_vh5_forloop",
+            "request": "launch",
+            "mainClass": "cwk_22_vh5_forloop",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_23_ch5_break",
+            "request": "launch",
+            "mainClass": "cwk_23_ch5_break",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_27_ch6_arrays",
+            "request": "launch",
+            "mainClass": "cwk_27_ch6_arrays",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_32_method_overloading",
+            "request": "launch",
+            "mainClass": "cwk_32_method_overloading",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_33_varargs",
+            "request": "launch",
+            "mainClass": "cwk_33_varargs",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_34_recursion",
+            "request": "launch",
+            "mainClass": "cwk_34_recursion",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_35_ch5_ps",
+            "request": "launch",
+            "mainClass": "cwk_35_ch5_ps",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_36_ch7_ps_methods",
+            "request": "launch",
+            "mainClass": "cwk_36_ch7_ps_methods",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_38_ch8_custom",
+            "request": "launch",
+            "mainClass": "cwk_38_ch8_custom",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_39_ch8_ps",
+            "request": "launch",
+            "mainClass": "cwk_39_ch8_ps",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_40_ch9_access",
+            "request": "launch",
+            "mainClass": "cwk_40_ch9_access",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_41_project2Game",
+            "request": "launch",
+            "mainClass": "cwk_41_project2Game",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_42_ch9_constructors",
+            "request": "launch",
+            "mainClass": "cwk_42_ch9_constructors",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_44_ch9_ps",
+            "request": "launch",
+            "mainClass": "cwk_44_ch9_ps",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_47_ch10_this_super",
+            "request": "launch",
+            "mainClass": "cwk_47_ch10_this_super",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_49_ch10_dynamic_method_dispatch",
+            "request": "launch",
+            "mainClass": "cwk_49_ch10_dynamic_method_dispatch",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_50_project3_game",
+            "request": "launch",
+            "mainClass": "cwk_50_project3_game",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_54_ch11_abstract",
+            "request": "launch",
+            "mainClass": "cwk_54_ch11_abstract",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_55_ch11_interfaces",
+            "request": "launch",
+            "mainClass": "cwk_55_ch11_interfaces",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_56_interface",
+            "request": "launch",
+            "mainClass": "cwk_56_interface",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_57_default",
+            "request": "launch",
+            "mainClass": "cwk_57_default",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_58_inheritance_interfaces",
+            "request": "launch",
+            "mainClass": "cwk_58_inheritance_interfaces",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_59_polymorphism",
+            "request": "launch",
+            "mainClass": "cwk_59_polymorphism",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_60_ch11_ps",
+            "request": "launch",
+            "mainClass": "cwk_60_ch11_ps",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_61_project4_game",
+            "request": "launch",
+            "mainClass": "cwk_61_project4_game",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_62_pattern1",
+            "request": "launch",
+            "mainClass": "cwk_62_pattern1",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_Hollowpattern2",
+            "request": "launch",
+            "mainClass": "cwk_Hollowpattern2",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_butterfly_pattern1",
+            "request": "launch",
+            "mainClass": "cwk_butterfly_pattern1",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_butterflypattern",
+            "request": "launch",
+            "mainClass": "cwk_butterflypattern",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_ch10_ps_inheritance",
+            "request": "launch",
+            "mainClass": "cwk_ch10_ps_inheritance",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_ch1_ps",
+            "request": "launch",
+            "mainClass": "cwk_ch1_ps",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_ch2_12_ps",
+            "request": "launch",
+            "mainClass": "cwk_ch2_12_ps",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_ch6_29_PS",
+            "request": "launch",
+            "mainClass": "cwk_ch6_29_PS",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_ch7_31_methods",
+            "request": "launch",
+            "mainClass": "cwk_ch7_31_methods",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_floydtriangle",
+            "request": "launch",
+            "mainClass": "cwk_floydtriangle",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_halfpyramid_pattern3",
+            "request": "launch",
+            "mainClass": "cwk_halfpyramid_pattern3",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_inverted_halfpyramid_pattern4",
+            "request": "launch",
+            "mainClass": "cwk_inverted_halfpyramid_pattern4",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_pattern6",
+            "request": "launch",
+            "mainClass": "cwk_pattern6",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwk_pattern7",
+            "request": "launch",
+            "mainClass": "cwk_pattern7",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch quickquiz",
+            "request": "launch",
+            "mainClass": "quickquiz",
+            "projectName": "java_25cf3549"
+        }
+    ]
+}
