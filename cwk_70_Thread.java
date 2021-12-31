@@ -1,17 +1,21 @@
 class MyThread extends Thread {
     public void run() {
-        while (true) {
+        int i=0;
+        while (i<4000) {
             System.out.println("My thread is running");
             System.out.println("I am good");
+            i++;
         }
     }
 }
 
 class MyThread1 extends Thread {
     public void run() {
-        while (true) {
+        int i=0;
+        while (i<4000) {
             System.out.println("Thread 1 is good!");
             System.out.println("I am sad!");
+            i++;
         }
     }
 }

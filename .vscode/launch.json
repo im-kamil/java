@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwk_71_runnable_thread_method",
+            "request": "launch",
+            "mainClass": "cwk_71_runnable_thread_method",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
             "name": "Launch cwk_70_Thread",
             "request": "launch",
             "mainClass": "cwk_70_Thread",
