@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwk_73_Thread_rconstructor2",
+            "request": "launch",
+            "mainClass": "cwk_73_Thread_rconstructor2",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
             "name": "Launch cwk_73_thread_constructor",
             "request": "launch",
             "mainClass": "cwk_73_thread_constructor",
