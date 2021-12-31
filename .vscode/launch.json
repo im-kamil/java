@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwk_75_threadmethods",
+            "request": "launch",
+            "mainClass": "cwk_75_threadmethods",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
             "name": "Launch MyThr1$cwk_74_Thread_priorities",
             "request": "launch",
             "mainClass": "MyThr1$cwk_74_Thread_priorities",
