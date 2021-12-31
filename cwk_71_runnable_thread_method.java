@@ -16,7 +16,7 @@ class MyRunnableThread2 implements Runnable {
             i++;
         }
     }
-}
+} 
 
 public class cwk_71_runnable_thread_method {
     public static void main(String[] args) {
@@ -30,6 +30,6 @@ public class cwk_71_runnable_thread_method {
         // obj
         // t2.start();
         gun1.start(); // finally error gone by runnable method thread
-        gun2.start();
+        gun2.start(); // one more important point Thread will start at start method not Run which we were declared at above run method
     }
 }
