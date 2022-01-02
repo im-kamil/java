@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwk_80_errorsdemo",
+            "request": "launch",
+            "mainClass": "cwk_80_errorsdemo",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
             "name": "Launch cwk_79_ch14_errors",
             "request": "launch",
             "mainClass": "cwk_79_ch14_errors",
