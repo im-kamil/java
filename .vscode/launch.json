@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwk_82_handlingexception",
+            "request": "launch",
+            "mainClass": "cwk_82_handlingexception",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
             "name": "Launch cwk_81_try_catch",
             "request": "launch",
             "mainClass": "cwk_81_try_catch",
