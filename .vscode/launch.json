@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwk_83_nestedtrycatch",
+            "request": "launch",
+            "mainClass": "cwk_83_nestedtrycatch",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
             "name": "Launch cwk_82_handlingexception",
             "request": "launch",
             "mainClass": "cwk_82_handlingexception",
