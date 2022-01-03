@@ -8,7 +8,7 @@ public class cwk_86_ch14_ps {
         } catch (IllegalArgumentException e) {
             System.out.println(" hehehehehe ");
         } catch (ArithmeticException e) {
-            System.out.println(" hahahah ");
+            System.out.println(" hahahah ");  // this is base which we have to go further
         }
         // PROBLEM 3
         boolean flag = true;
