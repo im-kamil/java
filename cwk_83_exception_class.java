@@ -8,7 +8,7 @@ class MyException extends Exception {
 
     @Override
     public String getMessage() { // again new method
-        return " I am getMessage()";
+        return " I am getMessage()";    // throw method
     }
 }
 
