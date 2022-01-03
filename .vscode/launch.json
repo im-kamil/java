@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwk_85_finallyblock",
+            "request": "launch",
+            "mainClass": "cwk_85_finallyblock",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
             "name": "Launch cwk_84_Throws",
             "request": "launch",
             "mainClass": "cwk_84_Throws",
