@@ -1,4 +1,4 @@
-import org.jcp.xml.dsig.internal.SignerOutputStream;
+
 
 public class cwk_numberpyramid {
     public static void main(String[] args) {
