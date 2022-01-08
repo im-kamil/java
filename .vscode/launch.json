@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwk_91_arraylist",
+            "request": "launch",
+            "mainClass": "cwk_91_arraylist",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
             "name": "Launch cwk_86_ch14_ps",
             "request": "launch",
             "mainClass": "cwk_86_ch14_ps",
