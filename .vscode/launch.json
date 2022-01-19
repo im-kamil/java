@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwk_93_ArrayDeque",
+            "request": "launch",
+            "mainClass": "cwk_93_ArrayDeque",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
+            "name": "Launch zoha",
+            "request": "launch",
+            "mainClass": "zoha",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
             "name": "Launch cwk_92_LinkedList",
             "request": "launch",
             "mainClass": "cwk_92_LinkedList",
