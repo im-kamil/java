@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwk_95_HashSet",
+            "request": "launch",
+            "mainClass": "cwk_95_HashSet",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
             "name": "Launch cwk_93_ArrayDeque",
             "request": "launch",
             "mainClass": "cwk_93_ArrayDeque",

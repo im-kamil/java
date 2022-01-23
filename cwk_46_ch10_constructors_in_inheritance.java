@@ -56,10 +56,10 @@ class ChildofDerived {
 
 public class cwk_46_ch10_constructors_in_inheritance {
     public static void main(String[] args) {
-       // Base b = new Base();
-      //  Derived d = new Derived();
-      //  Derived d1 = new Derived(12, 15);
-      //  ChildofDerived cd = new ChildofDerived();
+        // Base b = new Base();
+        // Derived d = new Derived();
+        // Derived d1 = new Derived(12, 15);
+        // ChildofDerived cd = new ChildofDerived();
         ChildofDerived cd = new ChildofDerived(12, 15, 20);
-}
+    }
 }
