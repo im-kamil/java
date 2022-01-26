@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IndianFlagExample",
+            "request": "launch",
+            "mainClass": "IndianFlagExample",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
             "name": "Launch IndianFlag",
             "request": "launch",
             "mainClass": "IndianFlag",
