@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IndianFlag",
+            "request": "launch",
+            "mainClass": "IndianFlag",
+            "projectName": "java_25cf3549"
+        },
+        {
+            "type": "java",
             "name": "Launch cwk_95_HashSet",
             "request": "launch",
             "mainClass": "cwk_95_HashSet",
