@@ -1,7 +1,7 @@
 import java.applet.*;
 import java.awt.*;
 
-public class Doraemon extends Applet {
+public class Doraemon {
   public void paint(Graphics g) {
     Font fn = new Font("Georgia", Font.BOLD, 20);
     g.setFont(fn);
