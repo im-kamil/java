@@ -39,7 +39,7 @@ class FastReader {
                 st = new StringTokenizer(br.readLine());
             } catch (IOException e) {
                 e.printStackTrace();
-            }
+            } 
         }
         return st.nextToken();
     }
